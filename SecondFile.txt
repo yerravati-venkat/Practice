@@ -1,5 +1,4 @@
 My name is nobitha
 I need doremon
 git pull check
-cherry-pick
 cp
